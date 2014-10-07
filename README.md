@@ -2,6 +2,7 @@
 
 
 ## Muut language files
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Glovesmore/language?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Muut's default language is English. The English localization consists of two files:
 
